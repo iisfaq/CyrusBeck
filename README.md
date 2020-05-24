@@ -1,5 +1,5 @@
 # CyrusBeck
-CyrusBeck line clipping in c# - converted from C++ code at [https://www.geeksforgeeks.org/line-clipping-set-2-cyrus-beck-algorithm/](https://www.geeksforgeeks.org/line-clipping-set-2-cyrus-beck-algorithm/)
+[CyrusBeck line clipping](https://en.wikipedia.org/wiki/Cyrus%E2%80%93Beck_algorithm) in c# - converted from C++ code at [https://www.geeksforgeeks.org/line-clipping-set-2-cyrus-beck-algorithm/](https://www.geeksforgeeks.org/line-clipping-set-2-cyrus-beck-algorithm/)
 
 Along with a sample application that shows the result of the line clipping
 
