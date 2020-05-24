@@ -9,3 +9,4 @@ Along with a sample application that shows the result of the line clipping
 * EndTrimmed,
 * StartAndEndTrimmed
 
+![Example screen shot](/ScreenShot.png)
